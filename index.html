@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hiper_Archivo</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+
+    <style>
+        body {
+            background-color: black;
+            color: yellow;
+            font-family: 'Courier New', Courier, monospace;
+            margin: 0;
+            display: flex;
+            flex-wrap: wrap;
+            align-content: flex-start;
+            justify-content: left;
+        }
+
+        #welcome-text {
+            font-weight: bold; /* Hace que el texto sea negrita */
+        }
+        .title {
+            width: 100%;
+            text-align: left;
+            font-size: 18px;
+            margin-top: 20px;
+            padding-left: 15px;
+        }
+        .cursor {
+            display: inline-block;
+            background-color: yellow;
+            width: 10px;
+            height: 24px;
+            animation: blink 1s step-start infinite;
+        }
+        @keyframes blink {
+            50% {
+                background-color: black;
+            }
+        }
+        .hashtag {
+            margin: 5px;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        .popup {
+            position: fixed;
+            top: 10%;
+            left: 15%;
+            width: 70%;
+            height: calc(80% - 30px); /* Ajuste de altura para evitar empalme con el botón */
+            background-color: rgba(0, 0, 0, 0.95);
+            border: 3px solid yellow;
+            display: flex;
+            flex-direction: row;
+            color: yellow;
+            padding: 20px;
+            overflow: hidden;
+        }
+        .popup .left-section {
+            flex: 1;
+            overflow-y: auto;
+            text-align: left;
+            padding-right: 10px;
+            border-right: 2px solid yellow;
+        }
+        .popup .right-section {
+            flex: 1;
+            overflow-y: auto;
+            padding-left: 10px;
+        }
+        .popup .hashtag-header {
+            position: relative;
+            top: 0;
+            font-size: 20px;
+            font-weight: bold;
+            white-space: nowrap;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+        }
+        .popup .related-tags {
+            margin-top: 20px;
+        }
+        .close-button {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            cursor: pointer;
+            color: yellow;
+            font-weight: bold;
+            z-index: 10;
+            margin-right: 15px;
+        }
+        a {
+            color: yellow;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .popup ::-webkit-scrollbar {
+            width: 10px;
+        }
+        .popup ::-webkit-scrollbar-thumb {
+            background-color: yellow;
+            border-radius: 5px;
+        }
+        .popup ::-webkit-scrollbar-thumb:hover {
+            background-color: #FFD700; /* Un amarillo más claro al pasar el mouse */
+        }
+        .popup ::-webkit-scrollbar-track {
+            background-color: black;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="title">
+        <span id="welcome-text"></span><span class="cursor"></span>
+    </div>
+    <!-- Se agrega un espacio entre el mensaje de bienvenida y los tags -->
+    <div style="width: 100%; height: 30px;"></div>
+    <script>
+        const welcomeMessage = "Starting internet recovery this may take a while...";
+        let i = 0;
+
+        function typeEffect() {
+            if (i < welcomeMessage.length) {
+                document.getElementById("welcome-text").textContent += welcomeMessage.charAt(i);
+                i++;
+                setTimeout(typeEffect, 100);
+            } else {
+                document.querySelector('.cursor').style.animation = 'blink 1s step-start infinite';
+            }
+        }
+
+        async function fetchAndParseContent() {
+            try {
+                const response = await fetch('contenido.txt');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const text = await response.text();
+
+                const lines = text.split('\n');
+                const hashtagsSet = new Set();
+                const hashtagMap = {};
+
+                lines.forEach(line => {
+                    const parts = line.split(',');
+                    if (parts.length < 2) return;
+                    const title = parts[0].trim();
+                    const urlAndHashtags = parts.slice(1).join(',').trim();
+                    let url = urlAndHashtags.split(' ')[0].trim();
+
+                    url = url.replace(/,$/, '');
+                    if (!url.startsWith('http://') && !url.startsWith('https://')) {
+                        url = 'http://' + url;
+                    }
+
+                    const hashtags = urlAndHashtags.match(/#[^\s]+/g) || [];
+
+                    hashtags.forEach(tag => {
+                        const normalizedTag = tag.toLowerCase();
+                        hashtagsSet.add(normalizedTag);
+                        if (!hashtagMap[normalizedTag]) {
+                            hashtagMap[normalizedTag] = [];
+                        }
+                        hashtagMap[normalizedTag].push({ title, url, hashtags });
+                    });
+                });
+
+                renderHashtags(Array.from(hashtagsSet).sort(), hashtagMap);
+            } catch (error) {
+                console.error('Error fetching or processing contenido.txt:', error);
+            }
+        }
+
+        function renderHashtags(hashtags, hashtagMap) {
+            const fragment = document.createDocumentFragment();
+
+            hashtags.forEach(tag => {
+                const div = document.createElement('div');
+                div.textContent = tag;
+                div.className = 'hashtag';
+                div.addEventListener('click', () => showPopup(tag, hashtagMap[tag], hashtagMap));
+                fragment.appendChild(div);
+            });
+
+            document.body.appendChild(fragment);
+        }
+
+        function typeHashtagEffect(element, text) {
+            let i = 0;
+            function typing() {
+                if (i < text.length) {
+                    element.textContent += text.charAt(i);
+                    i++;
+                    setTimeout(typing, 100);
+                } else {
+                    element.nextElementSibling.style.animation = 'blink 1s step-start infinite';
+                }
+            }
+            typing();
+        }
+
+        function showPopup(tag, items, hashtagMap) {
+            const popup = document.createElement('div');
+            popup.className = 'popup';
+
+            const leftSection = document.createElement('div');
+            leftSection.className = 'left-section';
+
+            const rightSection = document.createElement('div');
+            rightSection.className = 'right-section';
+
+            const hashtagHeader = document.createElement('div');
+            hashtagHeader.className = 'hashtag-header';
+            const headerText = document.createElement('span');
+            const headerCursor = document.createElement('span');
+            headerCursor.className = 'cursor';
+            hashtagHeader.appendChild(headerText);
+            hashtagHeader.appendChild(headerCursor);
+
+            rightSection.appendChild(hashtagHeader);
+
+            function populateLeftSection(selectedTag) {
+                leftSection.innerHTML = '';
+                const currentItems = hashtagMap[selectedTag];
+                currentItems.forEach(({ title, url }) => {
+                    const link = document.createElement('a');
+                    link.href = url;
+                    link.textContent = title;
+                    link.target = '_blank';
+                    leftSection.appendChild(link);
+                    leftSection.appendChild(document.createElement('br'));
+                });
+            }
+
+            populateLeftSection(tag);
+
+            const uniqueRelatedHashtags = new Set();
+
+            items.forEach(({ hashtags }) => {
+                hashtags.forEach(relatedTag => {
+                    if (relatedTag.toLowerCase() !== tag.toLowerCase()) {
+                        uniqueRelatedHashtags.add(relatedTag);
+                    }
+                });
+            });
+
+            const relatedTagsContainer = document.createElement('div');
+            relatedTagsContainer.className = 'related-tags';
+            Array.from(uniqueRelatedHashtags).sort().forEach(relatedTag => {
+                const relatedTagElement = document.createElement('a');
+                relatedTagElement.textContent = relatedTag;
+                relatedTagElement.href = '#';
+                relatedTagElement.addEventListener('click', () => {
+                    populateLeftSection(relatedTag.toLowerCase());
+                });
+                relatedTagsContainer.appendChild(relatedTagElement);
+                relatedTagsContainer.appendChild(document.createElement('br'));
+            });
+
+            rightSection.appendChild(relatedTagsContainer);
+
+            const closeButton = document.createElement('div');
+            closeButton.textContent = 'X';
+            closeButton.className = 'close-button';
+            closeButton.addEventListener('click', () => popup.remove());
+
+            popup.appendChild(closeButton);
+            popup.appendChild(leftSection);
+            popup.appendChild(rightSection);
+            document.body.appendChild(popup);
+
+            typeHashtagEffect(headerText, tag);
+        }
+
+        typeEffect();
+        fetchAndParseContent();
+    </script>
+</body>
+</html>
