@@ -44,7 +44,7 @@ Matter.farm,http://matter.farm/, #bioarte #hacking #biohacking #molecular #sint�
 Governing Online Goods..., https://dl.acm.org/doi/10.1145/3555191, #opensource #libreacceso #democracia #comunidad #economía #auto_organización 
 ARROOST: UNBLOCKING CREATION WITH FRIENDS, https://www.todepond.com/report/arroost/, #web #hipervínculo #hiperjardín #comunidad #herramienta 
 Taxodus, http://femkeherregraven.net/taxodus/, #economía #geografía #sistemasdevalor 
-Virus in action, https://www.youtube.com/watch?v=NebPSMIogQc, #performance #cibernética #virus #hacking
+Virus in action, https://www.youtube.com/watch?v=NebPSMIogQc, #performance #cibernética #virus #hacking #sistema #datos #informática #algoritmo
 Desktop dump archive, https://mollysoda.hotglue.me/?Desktop%20Dump%20Archive.head, #retro #screeshot #desktop #arte #archivo
 Screen walks, https://www.screenwalks.com/, #RRSS #meta #filtro #identidad 
 Handmade web, https://handmade-web.net/index.html, #diy #web #comunidad #html #interfaz
