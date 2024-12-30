@@ -1,30 +1,30 @@
-Jodi, https://wwwwwwwww.jodi.org/, #gráficos #hipervínculo #retro #arte #90s #netart #videojuego #interfaz #screenshot
-Superweed, https://www.irational.org/cta/superweed/,  #biohacking #Gmo #transgénico #diy #biología #botánica
-Attrition, https://attrition.org/, #seguridad #cultura_del_internet #desfiguracione_sweb
-Konsum, https://www.konsum.net/, #informática #cibernética #hacking #datos #usodedatos
-Rhizome, https://rhizome.org/, #arte #hashtag #compilación #comunidad #buscador
-Simone Computer, https://simone.computer/ #arte #videos #retro #interactividad
-Proyecto Idis, https://proyectoidis.org/, #comunidad #hashtag #hipervínculo #navegación #arte #comunidad
-Irrational, https://www.irational.org/, #hacking #seguridad #datos #cibernética #diy #legislación #denuncia #organización #auto_organización
+Jodi, https://wwwwwwwww.jodi.org/, #gráficos #hipervínculo #retro #arte #90s #netart #videojuego #interfaz #screenshot #navegación #glitch #tecnología #HTML_Arte #Hacking #cibernética #ciberpunk
+Superweed, https://www.irational.org/cta/superweed/,  #biohacking #transgénico #diy #biología #botánica #laboratorio #GMO #activismo #Hacktivismo
+Attrition, https://attrition.org/, #seguridad #cultura_del_internet #desfiguracione_sweb #Hacktivismo #archivo #Web_defacement_mirror #etica
+Konsum, https://www.konsum.net/, #informática #cibernética #hacking #datos #uso_de_datos #interfaz #ciberespacio #glitch #tecnología
+Rhizome, https://rhizome.org/, #arte #hashtag #compilación #comunidad #buscador #convocatoria #cursos #lectura #texto #archivo
+Simone Computer, https://simone.computer/ #arte #video #retro #interactividad #interfaz #poesía_digital #navegación 
+Proyecto Idis, https://proyectoidis.org/, #comunidad #hashtag #hipervínculo #navegación #arte #comunidad #hipertexto #link 
+Irrational, https://www.irational.org/, #hacking #seguridad #datos #cibernética #diy #legislación #denuncia #organización #auto_organización #hacktivismo #comunidad #desobediencia_tecnológica
 The Markups, https://www.irational.org/, #periodismo #datos #activismo #metodología #diy
-How to be a Community Radio Station, https://radio.xtreamlab.net/, #diy #radio #comunitario #activismo
+How to be a Community Radio Station, https://radio.xtreamlab.net/, #diy #radio #comunitario #activismo #comunidad #colaborativo #movimiento_de_bases #Grassroots 
 Divs,  https://gcoch.github.io/D3-tutorial/, #github #divs #java #html #tutorial #diy #herramienta
 Jardinbit, https://jardinbit.neocities.org/, #código_creativo #diy #tutorial #processing
 Ten Digits, https://tendigits.space/, #artista #arte #portafolio
 Windows 93, https://www.windows93.net/, #emulador #arte #retro #desktop
 Disembodie territories, https://disembodiedterritories.com/, #arte #textos #compilación #territorio #materialidad #espacio
 ASCII Art, https://www.asciiart.eu/image-to-ascii, #imgtoascii #ascii #herramienta 
-Compudanzas, https://compudanzas.net/, #netart #danza #web #informática #videojuegos
+Compudanzas, https://compudanzas.net/, #netart #danza #web #informática #videojuego
 Morkana, https://morakana.com/, #estudio #herramienta #arte_y_ciencia #experimentación #ciencia #arte #naturaleza #tutorial #electrónica
 Lettuce gemlog, https://ctrl-c.club/~lettuce/,  #música #visual #generativo #código #política #tutorial
 Tao Te Ching, https://tao.cblgh.org/, #IChing #random #aleatorio #oráculo #web 
 Mycelial Technology, https://mycelial.technology/, #arte_y_ciencia #naturaleza #ciencia #bioarte #código #descentralización
-Cyberbiome, https://cyberbiomes.org/, #arte_y_ciencia #bioarte #naturaleza
+Cyberbiome, https://cyberbiomes.org/, #arte_y_ciencia #bioarte #naturaleza #tecnología #antropoceno #capitaloceno #nuevos_medios #hipermedia #comunidad #simbiosis #interespecie
 Weapons of Math Destruction, https://drive.google.com/file/d/1vl2BMSbnHppZgNhaNx5SFhaYiWJPEeY6/view?usp=sharing, #CathyO'Neil #libro #texto #bigdata #activismo #matemáticas #algoritmo #democracia 
 Algorithms of oppression, https://drive.google.com/file/d/1p5JjQOO9kcvW4v-GqOBdoMuPdmkx5qhf/view?usp=sharing, #algoritmo #texto #libro #opresion #bigdata #sesgo #datos #desigualdad
 Yo contengo multitudes, https://drive.google.com/file/d/16DiLbC8PsQjjl1kXkZmCw5Oy3irwodot/view?usp=sharing, #ecosistema #simbiosis #texto #libro #microbiología #comunidad
 El arte de la falsificación y la decostrucción en chino, https://drive.google.com/file/d/10KhqNUbD9bxa3cMRff_worYk2IfiTspm/view?usp=sharing,   #texto #libro #apropiación #falsificación #shanzhai #originalidad #pensamiento #China
-Golem XIV, https://drive.google.com/file/d/1y4dXyewRtlqen2cR_c5m14FLlANu0NTy/view?usp=sharing, #golem #ciencia_ficción #scifi #texto #libro #soviet #futuro #ai
+Golem XIV, https://drive.google.com/file/d/1y4dXyewRtlqen2cR_c5m14FLlANu0NTy/view?usp=sharing, #golem #ciencia_ficción #scifi #texto #libro #StanislavLem #futuro #ai
 Against the Grain: A Deep History of the Earliest States, https://drive.google.com/file/d/1fkm9xhNtesttJZ-eFE9AltfNmHIjRWoE/view?usp=sharing, #domesticación #estado #antropología #economía #cultura #epidemia #civilización #agricultura #sedentarismo #organización #texto #libro
 Tristes Trópicos, https://drive.google.com/file/d/1bKvPshMu5y57MeIHZoJpvT8z5Ew6B7ZF/view?usp=sharing, #antropología #mito #rito #América #narración #texto #libro #materialismo #estructuralismo
 El Antropólogo Inocente, https://drive.google.com/file/d/119KCeW9f_RY6OD8rny4aAQ5n5xNuo4lD/view?usp=sharing, #texto #libro #antropología #narración #mito #metodología
@@ -66,7 +66,7 @@ Plant Studio, https://pketh.org/plantstudio.html, #web #net #botánica #planta #
 Dataism, https://medium.com/understanding-us/dataism-god-is-in-the-algorithm-84af800205cd, #algoritmo #data #dataismo #texto #dataflow
 ARE.NA, https://www.are.na/ #compilación #comunidad #buscador #organización #web
 Tentacular thinking, https://www.e-flux.com/journal/75/67125/tentacular-thinking-anthropocene-capitalocene-chthulucene/, #Haraway #antropoceno #capitaloceno #energía #comunidad #tecnología #texto
-Institute for dissent and datalovers, https://dissent-and-datalove.institute/, #hacking #data #diy #compilación #web #arte #networks #activismo
+Institute for dissent and datalovers, https://dissent-and-datalove.institute/, #hacking #data #diy #compilación #web #arte #networks #activismo #comunidad 
 Institute of the Cosmos, https://cosmos.art/, #web #net #arte #cosmos #espacio #astronomía
 Institute for Postnatural Studies, https://www.instituteforpostnaturalstudies.org/, #archivo #web #network #postnaturaleza #texto
 Dangerzone, https://dangerzone.rocks/, #seguridad #ciberseguridad #herramienta #maleware #virus 
@@ -140,7 +140,7 @@ Smartphone punched card reading, https://www.instagram.com/p/DDeUAeBx8b4/, #punc
 The Poet Enginer, https://www.instagram.com/the.poet.engineer/, #arte #blobtracking #touchdesigner #tracking #movimiento #virtual #realidadaumentada 
 School for Poetic Computation, https://sfpc.study/, #cursos #web #net #networking #poesía #virtual #informática #cibernética #computación #arte #comunidad #interfaz
 Horizons, https://ssd.jpl.nasa.gov/horizons/app.html/,  #web #efemérides #NASA #coordenadas #cosmos #espacio #geo_posicionamiento #herramienta #satélite #astro #astronomía #spacecraft
-Daily Entropy, https://the-pale-blue-pixel.github.io/Daily-Entropy/, #entropía #web #net #netart #IChing #hexagrama #azar #aleatoriedad #random #Isis
+Daily Entropy, https://the-pale-blue-pixel.github.io/Daily-Entropy/, #entropía #web #net #netart #IChing #hexagrama #azar #aleatorio #random #Isis
 SUN, https://sun.vidyakelie.com/, #sun #netart #net #web #interactividad #geocentrismo #arte #sol #interactividad #realtime
 Helio Santos, https://heliosantos.org/, #arte #portafolio #artista #paisaje #generativo #nft #arte_digital #máquina 
 Gilberto Esparza, https://gilbertoesparza.net/, #arte #portafolio #máquina #naturaleza #postnaturaleza #cyborg #simbiosis #parásito #urbanismo #paisaje
@@ -274,3 +274,4 @@ Jakob von Gunten, https://drive.google.com/file/d/1Jc7KwANr8aKhjiHeMdKhBY7it_DIp
 Neurocapitalism, https://drive.google.com/file/d/1pm3CfWJqfxuot_Wts78obMVhk7VWyB_T/view?usp=sharing, #libro #texto #capitalismo #cibernética #tecnología #media #economía #
 M Archive_after the end of the world, https://drive.google.com/file/d/1iZP3IjTPrIW3HUQkSt6-cbCZjT2NSE9s/view?usp=sharing, #libro #texto #cibernética #archivo #memoria #memory_drive #infertaz #internet #informática #registro
 Spaces of Commoning, https://drive.google.com/file/d/1gYzZuI21-C4VuTtiAEx5aQVvqtru5cLp/view?usp=sharing, #libro #texto #arte #virtual #cibernética #especulación #comunidad #activismo 
+CompuMundoHiperMegaRed, https://the-pale-blue-pixel.github.io/Hiper_Archivo/, #CompuMundoHiperMegaRed
