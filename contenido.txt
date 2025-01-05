@@ -277,3 +277,4 @@ Spaces of Commoning, https://drive.google.com/file/d/1gYzZuI21-C4VuTtiAEx5aQVvqt
 CompuMundoHiperMegaRed, https://the-pale-blue-pixel.github.io/Hiper_Archivo/, #CompuMundoHiperMegaRed
 Windows 2: Final Fantasy of operating system, https://www.ninakalinina.com/notes/win2/, #retro #web #compilación #windows #screenshot #informática #computación #sistema_operativo 
 Catholic Turing Test, https://digitalartarchive.siggraph.org/artwork/gregory-p-garvey-catholic-turing-test/, #web #religión #informática #sistema #arte #interactividad #instalación #máquina #cultura_digital
+SIGGRAPH Artworks, https://digitalartarchive.siggraph.org/siggraph-artworks-in-the-victoria-albert-museum-gallery-view/, #web #net #comunidad #compilación #cultura_digital #siggraph #informática #computación #cibernética #arte #generativo #interactividad #sistema #arte_digital #programación #código
