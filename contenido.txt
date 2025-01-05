@@ -278,3 +278,6 @@ CompuMundoHiperMegaRed, https://the-pale-blue-pixel.github.io/Hiper_Archivo/, #C
 Windows 2: Final Fantasy of operating system, https://www.ninakalinina.com/notes/win2/, #retro #web #compilación #windows #screenshot #informática #computación #sistema_operativo 
 Catholic Turing Test, https://digitalartarchive.siggraph.org/artwork/gregory-p-garvey-catholic-turing-test/, #web #religión #informática #sistema #arte #interactividad #instalación #máquina #cultura_digital
 SIGGRAPH Artworks, https://digitalartarchive.siggraph.org/siggraph-artworks-in-the-victoria-albert-museum-gallery-view/, #web #net #comunidad #compilación #cultura_digital #siggraph #informática #computación #cibernética #arte #generativo #interactividad #sistema #arte_digital #programación #código
+TempleOs, http://www.templeos.org/, #informática #cibernética #sistema_operativo #dios #religión #computación #arte #.exe 
+Bunkertours, http://www.bunkertours.co.uk/, #net #galería #comunidad #web #bunker #arquitectura #espacio #compilación 
+Dream Machines, https://drive.google.com/file/d/1eFBggDe0t_rStp9hnDUWeu2vJIyGD9TR/view?usp=sharing, #computación #informática #máquina #cibernética #libro #texto #ilustración #Ted_Nelson #hipertexto #realidad_virtual #multimedia #opensource #libre_acceso #tecnología 
