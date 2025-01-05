@@ -164,7 +164,7 @@ An Audiovisual Environment Suite, https://acg.media.mit.edu/people/golan/aves/, 
 Sixties city, https://www.sixtiescity.net/Radio/PirateRadio.shtm, #net #radio #opensource #libreacceso #diy #frecuencia
 Hackteria, https://www.hackteria.org/, #net #web #compilación #hacking #biología #diy #laboratorio #sintético #opensource
 Joris Wegner, https://joriswegner.de/art/, #portafolio #artista #arte #religión #iconografía #arma #cristianismo #electrónica
-Juan Rey, https://www.espaciopla.com/artistas/juan-rey/, #artista, arte #portafolio #circuito #minimalismo #electrónica #arte_latinoamericano
+Juan Rey, https://www.espaciopla.com/artistas/juan-rey/, #artista arte #portafolio #circuito #minimalismo #electrónica #arte_latinoamericano
 Peter Blasser, https://www.ciat-lonbarde.net/, #arte #portafolio #artista #sintetizador #noise #ruido #música
 Gieskes, https://gieskes.nl/, #arte #portafolio #catálogo #pcv #circuito #hacking #diy #electrónica
 Marión C. Martínez, http://www.marionmartinez.com/, #arte #artista #portafolio #circiuto #pcv #iconografía #religión #cristianismo
@@ -275,3 +275,5 @@ Neurocapitalism, https://drive.google.com/file/d/1pm3CfWJqfxuot_Wts78obMVhk7VWyB
 M Archive_after the end of the world, https://drive.google.com/file/d/1iZP3IjTPrIW3HUQkSt6-cbCZjT2NSE9s/view?usp=sharing, #libro #texto #cibernética #archivo #memoria #memory_drive #infertaz #internet #informática #registro
 Spaces of Commoning, https://drive.google.com/file/d/1gYzZuI21-C4VuTtiAEx5aQVvqtru5cLp/view?usp=sharing, #libro #texto #arte #virtual #cibernética #especulación #comunidad #activismo 
 CompuMundoHiperMegaRed, https://the-pale-blue-pixel.github.io/Hiper_Archivo/, #CompuMundoHiperMegaRed
+Windows 2: Final Fantasy of operating system, https://www.ninakalinina.com/notes/win2/, #retro #web #compilación #windows #screenshot #informática #computación #sistema_operativo 
+Catholic Turing Test, https://digitalartarchive.siggraph.org/artwork/gregory-p-garvey-catholic-turing-test/, #web #religión #informática #sistema #arte #interactividad #instalación #máquina #cultura_digital
