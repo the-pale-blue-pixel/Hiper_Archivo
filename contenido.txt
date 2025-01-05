@@ -12,7 +12,7 @@ Divs,  https://gcoch.github.io/D3-tutorial/, #github #divs #java #html #tutorial
 Jardinbit, https://jardinbit.neocities.org/, #código_creativo #diy #tutorial #processing
 Ten Digits, https://tendigits.space/, #artista #arte #portafolio
 Windows 93, https://www.windows93.net/, #emulador #arte #retro #desktop
-Disembodie territories, https://disembodiedterritories.com/, #arte #textos #compilación #territorio #materialidad #espacio
+Disembodie territories, https://disembodiedterritories.com/, #arte #texto #compilación #territorio #materialidad #espacio
 ASCII Art, https://www.asciiart.eu/image-to-ascii, #imgtoascii #ascii #herramienta 
 Compudanzas, https://compudanzas.net/, #netart #danza #web #informática #videojuego
 Morkana, https://morakana.com/, #estudio #herramienta #arte_y_ciencia #experimentación #ciencia #arte #naturaleza #tutorial #electrónica
@@ -29,7 +29,7 @@ Against the Grain: A Deep History of the Earliest States, https://drive.google.c
 Tristes Trópicos, https://drive.google.com/file/d/1bKvPshMu5y57MeIHZoJpvT8z5Ew6B7ZF/view?usp=sharing, #antropología #mito #rito #América #narración #texto #libro #materialismo #estructuralismo
 El Antropólogo Inocente, https://drive.google.com/file/d/119KCeW9f_RY6OD8rny4aAQ5n5xNuo4lD/view?usp=sharing, #texto #libro #antropología #narración #mito #metodología
 Aflicción e ira de un cazador de cabezas, https://drive.google.com/file/d/17Dqm4rdzsOvl9TRZOwDpyUcYnOYV6nZO/view?usp=sharing, #antropología #texto #libro #narración
-State Machines, https://drive.google.com/file/d/1t0j7RhPwABV0Yn7QJ7aYkGcaaEX1Q5uc/view?usp=sharing, #estado #algoritmo #tecnología #máquina #eradigital #cibernética #datos #democracia #arte #texto #libro
+State Machines, https://drive.google.com/file/d/1t0j7RhPwABV0Yn7QJ7aYkGcaaEX1Q5uc/view?usp=sharing, #estado #algoritmo #tecnología #máquina #era_digital #cibernética #datos #democracia #arte #texto #libro
 Tejidos inteligentes, https://drive.google.com/file/d/1nOgDeIyKsyoj95tVe6KcdNxKEoTOGS22/view?usp=sharing, #textil #tecnología #texto #libro
 110010100, https://110010100.neocities.org/, #electrónica #circuito #diy #punk #activismo #hacking #compilación #computación
 Ribo Zone, https://ribo.zone/, #web #netart #interactividad #gráficos #tutorial 
@@ -41,9 +41,9 @@ Random Darknet Shopper, https://wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww.bitni
 Bail Block, https://bailbloc.thenewinquiry.com/, #migración #criptomoneda #blockchain #economía #activismo #organización #auto_organización #defensa
 GWEI - Google Will Eat Itself, https://gwei.org/index.php, #economía #datos #bigdata #publicidad #activismo
 Matter.farm,http://matter.farm/, #bioarte #hacking #biohacking #molecular #sintético #drogas #diy #activismo #economía
-Governing Online Goods..., https://dl.acm.org/doi/10.1145/3555191, #opensource #libreacceso #democracia #comunidad #economía #auto_organización 
+Governing Online Goods..., https://dl.acm.org/doi/10.1145/3555191, #opensource #slibre_acceso #democracia #comunidad #economía #auto_organización 
 ARROOST: UNBLOCKING CREATION WITH FRIENDS, https://www.todepond.com/report/arroost/, #web #hipervínculo #hiperjardín #comunidad #herramienta 
-Taxodus, http://femkeherregraven.net/taxodus/, #economía #geografía #sistemasdevalor 
+Taxodus, http://femkeherregraven.net/taxodus/, #economía #geografía #sistemas_de_valor
 Virus in action, https://www.youtube.com/watch?v=NebPSMIogQc, #performance #cibernética #virus #hacking #sistema #datos #informática #algoritmo
 Desktop dump archive, https://mollysoda.hotglue.me/?Desktop%20Dump%20Archive.head, #retro #screeshot #desktop #arte #archivo
 Screen walks, https://www.screenwalks.com/, #RRSS #meta #filtro #identidad 
@@ -69,7 +69,7 @@ Tentacular thinking, https://www.e-flux.com/journal/75/67125/tentacular-thinking
 Institute for dissent and datalovers, https://dissent-and-datalove.institute/, #hacking #data #diy #compilación #web #arte #networks #activismo #comunidad 
 Institute of the Cosmos, https://cosmos.art/, #web #net #arte #cosmos #espacio #astronomía
 Institute for Postnatural Studies, https://www.instituteforpostnaturalstudies.org/, #archivo #web #network #postnaturaleza #texto
-Dangerzone, https://dangerzone.rocks/, #seguridad #ciberseguridad #herramienta #maleware #virus 
+Dangerzone, https://dangerzone.rocks/, #seguridad #ciberseguridad #herramienta #smalware #virus 
 Apple Music Downloader, https://aaplmusicdownloader.com/, #herramienta #descarga #música
 Broider, https://maxbittker.github.io/broider/, #herramienta #css #borde #generativo 
 QrArt, https://research.swtch.com/qart, #herramienta #QR #arte 
@@ -81,7 +81,7 @@ The Common Mechanics of Quantum Computing and the I Ching, https://drive.google.
 A brief history of the time, https://drive.google.com/file/d/11XRAzjAustaxI73uf3kqHVrb3t4a6fZX/view?usp=sharing, #Hawking #tiempo #física #agujerosnegros #entropía #astronomía #relatividad #texto #libro #universo #espacio
 La Rama Dorada, https://drive.google.com/file/d/1Nugy75YewGee0sZ-lyHTwDe-fBSh8aWT/view?usp=sharing, #Frazer #libro #texto #antropología #religión #hombre #lenguaje #pensamiento #magia #animismo #naturaleza #cultura #tabú #sociedad
 Processing: a programming handbook for visual designers and artists, https://drive.google.com/file/d/1oUVWUBYgB052Ve_5Qjo5xmI0Y6-jf8sR/view?usp=sharing, #libro #texto #processing #código #código_creativo #java #arte #arte_digital
-Digital humanities and digital media, https://drive.google.com/file/d/16McDj0HMcqNcYbr8vg-Stx73IyjcAEyk/view?usp=sharing, #libro #texto #eradigital #medios #digital #simanowski #nube #informática #cibernética #algoritmo
+Digital humanities and digital media, https://drive.google.com/file/d/16McDj0HMcqNcYbr8vg-Stx73IyjcAEyk/view?usp=sharing, #libro #texto #era_digital #medios #digital #simanowski #nube #informática #cibernética #algoritmo
 A Philosophy of Computer Art, https://drive.google.com/file/d/1w7doupJBjTBzkaLQuyHwCovHXm7OVD68/view?usp=sharing, #libro #texto #computación #informática #cibernética #arte #interactividad
 DIGITAL PERFORMANCE, https://drive.google.com/file/d/1-1WY6uuzcBBy7krBlq-qnDQ_IwY9O8jM/view?usp=sharing, #nube #cibernética #texto #libro #digital #arte #performatividad #futurismo #postmodernismo #cyborg #telemática #videojuego #escénico
 New World Crops, https://drive.google.com/file/d/1hsv2u7UppejW6xgQVRwh_X7GASZyCxYj/view?usp=sharing, #texto #agricultura #nuevo_mundo #domesticación #dispersión #ecología #ecosistema #trade 
@@ -108,7 +108,7 @@ La inteligencia artificial o el desafío del siglo, https://drive.google.com/fil
 Estética de la desaparición, https://drive.google.com/file/d/1ph8pVr7iCNOJ20pr7DWmznsmvK2hWALR/view?usp=sharing, #libro #texto #Virilio #tecnología #filosofía #tiempo #desmaterialización #virtual #cibernética
 Ocultismo_Brujería y modas culturales, https://drive.google.com/file/d/1oRCTnBtPskltTj49SjoQEGghHVUNEsZp/view?usp=sharing, #antropología #sacrificio #libro #texto #brujería #ocultismo #MirceaEliade #esoterismo #mito #rito
 The Heretic's Guide to Global Finance, https://drive.google.com/file/d/1mLeBko3qk5ZPAiwFrANhlr1MOwDRHx9l/view?usp=sharing, #libro #texto #economía #finanzas #hacking #BrettScott #globalización #resistencia #activismo
-CODE + CLAY... DATA + DIRT, https://drive.google.com/file/d/1e284efcKhYZi-PKmzeWu69xgi3cWH5Fu/view?usp=sharing, #ShannonMattern #urbanismo #libro #textos #smartcity #economía #automatización #media #metrópolis #medio #espacio_público #territorio #digital #redes_de_datos #data
+CODE + CLAY... DATA + DIRT, https://drive.google.com/file/d/1e284efcKhYZi-PKmzeWu69xgi3cWH5Fu/view?usp=sharing, #ShannonMattern #urbanismo #libro #texto #smartcity #economía #automatización #media #metrópolis #medio #espacio_público #territorio #digital #redes_de_datos #data
 UTOPIA COMPUTER_The “New” in Architecture?, https://drive.google.com/file/d/127aEwB155JfwkTT4ks8bwMwGpMq4DUxb/view?usp=sharing, #materialismo #Deleuze #computación #informática #net #libro #texto #auto_organización #organización #utopía #digital #arquitectura #espacio #cibernética 
 After the Internet, https://drive.google.com/file/d/1ZkNgoBAPUuCqHrPF7OdsBKVq_5xAlaaL/view?usp=sharing, #libro #texto #TizianaTerranova #economía #finanzas #web2.0 #capitalismo #capitalismo_cognitivo #cultura_digital #redes_sociales #rrss #bien_común #internet #ciberactivismo #hacking 
 Steps to an Ecology of Mind,  https://drive.google.com/file/d/1R58sFlGnJ39LTh3EfvXP7lXg3Bc2YSQ_/view?usp=sharing, #libro #texto #Bateson  #cibernética #hombre-naturaleza #epistemología #cibernética #lingüística #antropología #ecología #sistemas_de_valor
@@ -124,7 +124,7 @@ A Cyborg Manifesto, https://drive.google.com/file/d/1J1jD_K1po_z5BD3549tqyuRj4bx
 Liminality and the Modern, https://drive.google.com/file/d/1IPCikWqxrJX08DI5ZHIOrlgMin_eCudc/view?usp=sharing, #libro #texto #modernidad #virtual #liminal #sociedad #antropología #globalismo #interfaz #digital #espacio
 _BEAUTIFUL DATA, https://drive.google.com/file/d/1MeCXbZf455X_ouFCdip9olOVfwSpxMqN/view?usp=sharing, #libro #texto #visualdata #data #bigdata #interactividad #cibernética #arte #interfaz #procesamiento_de_imagen
 Error, https://drive.google.com/file/d/1MeCXbZf455X_ouFCdip9olOVfwSpxMqN/view?usp=sharing, #arte #libro #texto #glitch #error #jam #noise #media #cultura_digital #data #pixel
-RADICAL SOFTWARE, https://drive.google.com/file/d/1MeCXbZf455X_ouFCdip9olOVfwSpxMqN/view?usp=sharing, #cibernética #informática #libro #texto #software #activismo #hacking #comunidad #network #sistema #obsolescencia #feedback #media #libreacceso #opensource 
+RADICAL SOFTWARE, https://drive.google.com/file/d/1MeCXbZf455X_ouFCdip9olOVfwSpxMqN/view?usp=sharing, #cibernética #informática #libro #texto #software #activismo #hacking #comunidad #network #sistema #obsolescencia #feedback #media #slibre_acceso #opensource 
 Synergetics , https://drive.google.com/file/d/1MeCXbZf455X_ouFCdip9olOVfwSpxMqN/view?usp=sharing, #libro #texto #BuckminsterFuller #ecología #utopía #naturaleza #arquitectura #urbanismo #sociedad #sustentabilidad #recurso #energía 
 The Nature of Code, https://drive.google.com/file/d/1MeCXbZf455X_ouFCdip9olOVfwSpxMqN/view?usp=sharing, #libro #texto #DanielShiffman #código #processing #código_creativo #arte #visual #imagen 
 On Weaving, https://drive.google.com/file/d/1MeCXbZf455X_ouFCdip9olOVfwSpxMqN/view?usp=sharing, #libro #texto #textil #telar #patrón #generativo #tapíz #fibra #arte #bordado 
@@ -161,7 +161,7 @@ Alt Text Selfies, https://alttextselfies.net/welcome/, #web #galería #net #comp
 One million check boxes, https://onemillioncheckboxes.com/, #juego #web #interactividad # #internet #informática
 Augmented Reality Fish, https://www.kenrinaldo.com/portfolio/augmented-fish-reality/, #proyecto #arte #realidadaumentada #bioarte #robótica #interespecie #transespecífico 
 An Audiovisual Environment Suite, https://acg.media.mit.edu/people/golan/aves/, #web #arte #net #compilación #video #fluído #Audiovisual #realtime #tiempo_real #interfaz #performance
-Sixties city, https://www.sixtiescity.net/Radio/PirateRadio.shtm, #net #radio #opensource #libreacceso #diy #frecuencia
+Sixties city, https://www.sixtiescity.net/Radio/PirateRadio.shtm, #net #radio #opensource #slibre_acceso #diy #frecuencia
 Hackteria, https://www.hackteria.org/, #net #web #compilación #hacking #biología #diy #laboratorio #sintético #opensource
 Joris Wegner, https://joriswegner.de/art/, #portafolio #artista #arte #religión #iconografía #arma #cristianismo #electrónica
 Juan Rey, https://www.espaciopla.com/artistas/juan-rey/, #artista arte #portafolio #circuito #minimalismo #electrónica #arte_latinoamericano
@@ -218,17 +218,17 @@ Strategies of Minimal Resistance, http://www.ljudmila.org/scca/worldofart/99/99p
 Brian Holmes, https://brianholmes.wordpress.com/, #web #net #capitalismo #resistencia #activismo #informática #cibernética #arte #política #sociedad
 Cents, https://www.sovrn.art/cents, #dinero #economía #especulación #net #arte #web #commodity #blockchain #mineral #minería #token
 Terraform explorer, https://0xm3tatr0n.github.io/terraforms-explorer/, #web #net #interactividad #terraformación #Geología #blockchain #token #propiedad
-Click mine, https://clickmine.click/, #blockahain #web #juego #interactividad #minería #token #click 
+Click mine, https://clickmine.click/, #blockchain #web #juego #interactividad #minería #token #click 
 La visualización de datos como nueva abstracción y antisublime, https://drive.google.com/file/d/10RH2q5hXvzyka1a-zOhod8FUzXmP1FEe/view?usp=sharing, #Manovich #arte #libro #texto #visualdata #datos #imagen
 Seeking for Outliers, https://drive.google.com/file/d/1SuK0JrrMJqg8vtcc79nFgTJVL7dY-O7_/view?usp=sharing, #libro #texto #imagen #visualdata #arte 
 La escultura en el campo expandido, https://drive.google.com/file/d/1q_e6mDWqbILsafpTLGF1gYIYg1KUKx_N/view?usp=sharing, #libro #texto #arte #escultura #nuevos_medios #instalación #arquitectura #performance
 Image and Imaging in Philosophy_Science_and the Arts, https://drive.google.com/file/d/1zWL6pmY1EM0VjdItqpPIC0j4sLG3BONH/view?usp=sharing, #libro #texto #imagen #arte #filosofía #ciencia #Wittgenstein #Música #Física #matemáticas
 Close monitoring of the path of the Chinese space station, https://drive.google.com/file/d/18RCzmJ-LpUldzvoNOBjXH5F1ft0716Hb/view?usp=sharing, #texto #China #espacio #aeronaútica #spacecraft #satélite #cosmos #astronomía
-Guild, https://guild.is/cv.html, #web #net #compilación #texto #activismo #blockahain #economía #hacking #diy #educación
+Guild, https://guild.is/cv.html, #web #net #compilación #texto #activismo #blockchain #economía #hacking #diy #educación
 SARS-COV-2, https://www.web3isgoinggreat.com/?blockchain=tezos&id=someone-sends-covid-19-nfts-to-all-active-hen-users, #web #net #performance #arte #virus #informática #datos #blockchain #nft
-What is cryptomedia?, https://cryptomedia.wtf/, #web #texto #net #arte #nuevos_medios #criprografía #blockahain #web3 #digital #virtual
+What is cryptomedia?, https://cryptomedia.wtf/, #web #texto #net #arte #nuevos_medios #criprografía #blockchain #web3 #digital #virtual
 What is Hypertext?, https://info.cern.ch/hypertext/WWW/WhatIs.html, #texto #web #net #hipertexto #link #click #no-linear
-A celestial cyberdimension, https://circaartmagazine.net/a-celestial-cyberdimension-art-tokens-and-the-artwork-as-derivative/, #arte #web #texto #cibernética #blockahain 
+A celestial cyberdimension, https://circaartmagazine.net/a-celestial-cyberdimension-art-tokens-and-the-artwork-as-derivative/, #arte #web #texto #cibernética #blockchain 
 Hypertexting, https://www.kickscondor.com/hypertexting/, #web #net #texto #hipertexto #hipersujeto #cuerpo
 Hypertext, https://cyberartsweb.org/cpace//ht/htov.html, #web #net #compilación #hipertexto #hipermedia #arte #navegación #no-linear
 Semantic Line Breaks, https://sembr.org/, #web #net #texto #hipertexto #semántica #no-linear
@@ -253,7 +253,7 @@ FINDING GOD ON THE WEB, https://time.com/archive/6730152/finding-god-on-the-web/
 What a Cyborg Wants, https://www.slowdownshow.org/episode/2019/12/13/275-what-a-cyborg-wants, #texto #web #net #cyborg #cibernética #poesía 
 Voices of the Cosmos, https://voicesofthecosmos.bandcamp.com/album/de-revolutionibus-mmxxiii, #música #web #cosmos #astronomía #Rafał_Iwański #data 
 The Rise and Fall of Internet Art Communities_ from DeviantArt to Tumblr, https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities, #web #net #comunidad #rrss #redes_sociales #virtual #digital 
-Arduino, https://drive.google.com/file/d/14dRUDLmVlZ7puLL2itwTURvRrYNnZg45/view?usp=sharing, #libro #texto #arduino #electrónica #diy #tutorial
+Arduino, https://drive.google.com/file/d/14dRUDLmVlZ7puLL2itwTURvRrYNnZg45/view?usp=sharing, #libro #texto #arduino #electrónica #diy #tutorial #microcontrolador
 Hyperobjects, https://drive.google.com/file/d/13WQf5lYhSSVYmJzzlQxh1rJt7sATzT0l/view?usp=sharing, #libro #texto #TimothyMorton #filosofía #ecología #antropoceno #posthumanismo #ecología #informática
 Signs of life, https://drive.google.com/file/d/156Eje8pjxVENC_ZTsX_WFG3eJjyd2t3l/view?usp=sharing, #libro #texto #bioarte #arte #tecnología #Kac #posthumanismo #antropoceno #tecnología #biología #informática #cibernética #digital 
 Beyond nature and culture, https://drive.google.com/file/d/180MNhaFfPWaZjX8tipeB9kJ0LJbV2Bs6/view?usp=sharing, #libro #texto #naturaleza #filosofía #antropología #sociedad #ecología #ecología #arte #Descola #interespecie 
@@ -264,7 +264,7 @@ Larks’ Tongues in Aspic, https://drive.google.com/drive/folders/1SA0MIcFo2xna0
 Darwin!, https://drive.google.com/drive/folders/1ibf_sITz638kNucU9jkB8bfIaGSagN7i?usp=sharing, #Rock_Progresivo #Bancodelmutuo #flac #mp3 #música
 Different trains, https://drive.google.com/drive/folders/1UFdO5zvkFBR6wCFOyoUtZoa_EePMTpQA?usp=sharing, #música #mp3 #flac #SteveRecih #Electric_Counterpoint #Cuarteto_cuerdas
 Aguirre_ la Ira de Dios, https://archive.org/details/lacoleradedios1972, #Herzog #película #video #colonialismo 
-Escalpelo_studio, https://www.instagram.com/escalpelostudio/, #arduino #raspberry #hacking #tecnología #arte #tecnología #cursos
+Escalpelo_studio, https://www.instagram.com/escalpelostudio/, #arduino #raspberry #hacking #tecnología #arte #tecnología #cursos #microcontrolador
 Antonio Salinas, https://antoniosalinas.com/, #arte #tecnología #cursos #electrónica #código_creativo
 Cyanovoltáica, https://jose-guerrero.itch.io/cyanovoltaica, #arte #ciencia #arte_y_ciencia #algae #bioreactor #Isis #blockchain #energía
 Johny got his gun, https://drive.google.com/file/d/1A9TIQO9uWdrs5nASzkJephEgUOHYKbIB/view?usp=sharing, #película #video #WWI #PGM #DaltonTrumbo 
