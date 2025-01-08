@@ -271,7 +271,7 @@ Johny got his gun, https://drive.google.com/file/d/1A9TIQO9uWdrs5nASzkJephEgUOHY
 El corazón de las tinieblas, https://drive.google.com/file/d/1Jre2V8TDS4x9P1kTHCvAxYhLmEYxZsnL/view?usp=sharing, #texto #libro #literatura #JosephConrad #colonialismo
 El Gólem, https://drive.google.com/file/d/1mmHzG905cY82_bVcZ6kZP5JMVQNMNmFb/view?usp=sharing, #libro #literatura #texto #golem #Meyrink #mito
 Jakob von Gunten, https://drive.google.com/file/d/1Jc7KwANr8aKhjiHeMdKhBY7it_DIpyxp/view?usp=sharing, #libro #texto #literatura #existencialismo 
-Neurocapitalism, https://drive.google.com/file/d/1pm3CfWJqfxuot_Wts78obMVhk7VWyB_T/view?usp=sharing, #libro #texto #capitalismo #cibernética #tecnología #media #economía #
+Neurocapitalism, https://drive.google.com/file/d/1pm3CfWJqfxuot_Wts78obMVhk7VWyB_T/view?usp=sharing, #libro #texto #capitalismo #cibernética #tecnología #media #economía 
 M Archive_after the end of the world, https://drive.google.com/file/d/1iZP3IjTPrIW3HUQkSt6-cbCZjT2NSE9s/view?usp=sharing, #libro #texto #cibernética #archivo #memoria #memory_drive #infertaz #internet #informática #registro
 Spaces of Commoning, https://drive.google.com/file/d/1gYzZuI21-C4VuTtiAEx5aQVvqtru5cLp/view?usp=sharing, #libro #texto #arte #virtual #cibernética #especulación #comunidad #activismo 
 CompuMundoHiperMegaRed, https://the-pale-blue-pixel.github.io/Hiper_Archivo/, #CompuMundoHiperMegaRed
@@ -288,3 +288,10 @@ Earth Revies, https://neal.fun/earth-reviews/, #web #juego #compilación #reseñ
 Spend Bill Gates' Money, https://neal.fun/spend/, #web #juego #capitalismo #BillGates #dinero #economía 
 Days Since the Incident, https://neal.fun/days-since-incident/, #web #tiempo_real #apocalipsis #juego #desastre_natural
 Wonders of Street View, https://neal.fun/wonders-of-street-view/, #web #interactividad #street_view #paisaje #galería #mapa 
+Gpredict, https://sourceforge.net/projects/gpredict/, #app #predicción #satélite #órbita #cubesat #gps
+Space Art and Culture in Brazil, https://www.makery.info/en/2022/09/15/english-space-art-and-culture-in-brazil-three-years-of-activities-at-the-national-institute-for-space-research-2-2/, #arte #satélite #espacio #taller #diy #astronomía #cosmología 
+HOW NOT TO BE SEEN, https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-165845/, #video #web #desobediencia #Hito_Steyer #disruptivo #estado #vigilancia #algoritmo #virtualidad #activismo #computer_vision #protesta #identidad 
+Botánica tirannica, https://www.desvirtual.com/project/botannica-tirannica/, #ciencia #arte #web #portafolio #botánica #ciencia #taxonomía #ai #inteligencia_artificial #biología #colonialismo #instalación
+Can Makeup Be an Anti-Surveillance Tool?, https://www.vogue.com/article/anti-surveillance-makeup-cv-dazzle-protest, #activismo #texto #web #maquillaje #vigilancia #estado #computer_vision #protesta #identidad
+Em defesa das imagens pobres, https://alix.fba.up.pt/em-defesa-das-imagens-pobres, #activismo #texto #computer_vision #datos #vigilancia #estado #sociedad #
+The_Brazilian_Workers_in_Amazon_Mechanical_Turk_Dr, https://drive.google.com/file/d/1FW5Kx6r7uI1OIJVhIJpq6LaouHvOXcaZ/view?usp=sharing, #texto #lectura #amazonia #capitalismo #estado #sur_global #ghost_work
