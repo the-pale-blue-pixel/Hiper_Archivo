@@ -295,3 +295,6 @@ Botánica tirannica, https://www.desvirtual.com/project/botannica-tirannica/, #c
 Can Makeup Be an Anti-Surveillance Tool?, https://www.vogue.com/article/anti-surveillance-makeup-cv-dazzle-protest, #activismo #texto #web #maquillaje #vigilancia #estado #computer_vision #protesta #identidad
 Em defesa das imagens pobres, https://alix.fba.up.pt/em-defesa-das-imagens-pobres, #activismo #texto #computer_vision #datos #vigilancia #estado #sociedad #
 The_Brazilian_Workers_in_Amazon_Mechanical_Turk_Dr, https://drive.google.com/file/d/1FW5Kx6r7uI1OIJVhIJpq6LaouHvOXcaZ/view?usp=sharing, #texto #lectura #amazonia #capitalismo #estado #sur_global #ghost_work
+How Computer Programming Is Similar to Textile Design, https://qrius.com/computer-programming-textile-design/, #web #texto #computación #textil #informática #código 
+Poder Alien, https://www.twitch.tv/poderalien, #streaming #comunidad #culturapop #tecnología #cultura_digital #informática #digital #AI 
+Interweaving Poetic Code, https://taeyoonchoi.com/poetic-computation/interweaving-poetic-code/, #web #poesía #código #comunidad #informática #compilación #galería #tecnología 
