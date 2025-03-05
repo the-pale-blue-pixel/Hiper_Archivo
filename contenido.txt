@@ -299,3 +299,6 @@ How Computer Programming Is Similar to Textile Design, https://qrius.com/compute
 Poder Alien, https://www.twitch.tv/poderalien, #streaming #comunidad #culturapop #tecnología #cultura_digital #informática #digital #AI 
 Interweaving Poetic Code, https://taeyoonchoi.com/poetic-computation/interweaving-poetic-code/, #web #poesía #código #comunidad #informática #compilación #galería #tecnología 
 Catching the Big Fish, https://drive.google.com/file/d/1eS72Zs3LIl8beOfRRf1odVKUeYBAJw-z/view?usp=sharing, #libro #texto #DavidLynch #meditación #espiritualidad 
+Tree Antenna, https://we-make-money-not-art.com/tree_antenna/, #arte #proyecto #radio #web #antena #ecologia 
+Fractal Antennae, https://afroditipsarra.com/work/fractal-antennae, #art #radio #antena #textil #wearable
+Bio-electric Radio, https://absolutevalueofnoise.ca/2016_bioelectric/index.html, #radio #arte #ruido #biología #biomáquinas
