@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hiper_Archivo (blanco & negro + verde hover)</title>
+    <title>Hiper_Archivo (verde en detalles)</title>
     <link rel="icon" type="image/png" href="favicon.png">
 
     <style>
-        /* --- GLOBAL: blanco y negro --- */
+        /* --- GLOBAL: blanco y negro con acento verde --- */
         body {
             background-color: #ffffff;
             color: #000000;
@@ -21,6 +21,7 @@
 
         #welcome-text {
             font-weight: bold; 
+            color: #00cc00; /* verde permanente */
         }
 
         .title {
@@ -31,7 +32,7 @@
             padding-left: 15px;
         }
 
-        /* cursor negro */
+        /* cursor negro (sigue siendo negro) */
         .cursor {
             display: inline-block;
             background-color: #000000;
@@ -45,7 +46,7 @@
             }
         }
 
-        /* --- ESTILO BASE PARA CUALQUIER HASHTAG (principal o popup) --- */
+        /* --- ESTILO BASE PARA HASHTAGS (principales y relacionados) --- */
         .hashtag, .related-hashtag {
             margin: 5px;
             padding: 5px 10px;
@@ -53,13 +54,28 @@
             color: #000000;
             background-color: transparent;
             transition: box-shadow 0.2s ease-in-out;
-            display: inline-block;  /* para que se ajusten al contenido */
+            display: inline-block;
         }
 
-        /* hover: sombra verde difuminada por detrás */
+        /* Hover: sombra verde difuminada */
         .hashtag:hover, .related-hashtag:hover {
             box-shadow: 0 0 15px 5px rgba(0, 255, 0, 0.6);
             background-color: transparent;
+        }
+
+        /* --- TÍTULOS (enlaces de la izquierda) también con hover verde --- */
+        .title-link {
+            margin: 2px 0;
+            padding: 2px 5px;
+            color: #000000;
+            text-decoration: none;
+            display: inline-block;
+            transition: box-shadow 0.2s ease-in-out;
+        }
+        .title-link:hover {
+            box-shadow: 0 0 15px 5px rgba(0, 255, 0, 0.6);
+            background-color: transparent;
+            text-decoration: underline; /* se mantiene el subrayado original */
         }
 
         /* --- POPUP --- */
@@ -108,15 +124,6 @@
 
         .popup .related-tags {
             margin-top: 20px;
-        }
-
-        /* los enlaces normales (títulos) se mantienen sin sombra */
-        .popup a:not(.related-hashtag) {
-            color: #000000;
-            text-decoration: none;
-        }
-        .popup a:not(.related-hashtag):hover {
-            text-decoration: underline;
         }
 
         .close-button {
@@ -294,6 +301,7 @@
                     link.href = url;
                     link.textContent = title;
                     link.target = '_blank';
+                    link.className = 'title-link';  // ← para efecto verde al hover
                     leftSection.appendChild(link);
                     leftSection.appendChild(document.createElement('br'));
                 });
@@ -315,11 +323,10 @@
             relatedTagsContainer.className = 'related-tags';
 
             Array.from(uniqueRelatedHashtags).sort().forEach(relatedTag => {
-                // Crear el enlace con clase específica para hashtags relacionados
                 const relatedTagElement = document.createElement('a');
                 relatedTagElement.textContent = relatedTag;
                 relatedTagElement.href = '#';
-                relatedTagElement.className = 'related-hashtag'; // ← clase para el hover verde
+                relatedTagElement.className = 'related-hashtag'; // clase para hover verde
                 relatedTagElement.addEventListener('click', (e) => {
                     e.preventDefault();
                     populateLeftSection(relatedTag.toLowerCase());
