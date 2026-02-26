@@ -137,7 +137,7 @@ Radio Nopal, https://www.radionopal.com/, #radio #comunidad #comunitario #músic
 Handmade electronic music, https://drive.google.com/drive/folders/1BIuemvtIqeo6QNcB5Z3MQpB_qh2HXxjN, #libro #texto #tutorial #handmade #diy #música #electrónica #midi #sintetizador 
 Simbología electrónica, https://drive.google.com/drive/folders/1BIuemvtIqeo6QNcB5Z3MQpB_qh2HXxjN, #libro #texto #electrónica #corriente #simbología #diagrama #esquemático #circuito #diy
 Smartphone punched card reading, https://www.instagram.com/p/DDeUAeBx8b4/, #punched_cards #binario #informática #retrofuturismo
-The Poet Enginer, https://www.instagram.com/the.poet.engineer/, #arte #blobtracking #touchdesigner #tracking #movimiento #virtual #realidadaumentada 
+The Poet Enginer, https://www.instagram.com/the.poet.engineer/, #arte #blobtracking #touchdesigner #tracking #movimiento #virtual #realidad_aumentada 
 School for Poetic Computation, https://sfpc.study/, #cursos #web #net #networking #poesía #virtual #informática #cibernética #computación #arte #comunidad #interfaz
 Horizons, https://ssd.jpl.nasa.gov/horizons/app.html/,  #web #efemérides #NASA #coordenadas #cosmos #espacio #geo_posicionamiento #herramienta #satélite #astro #astronomía #spacecraft
 Daily Entropy, https://the-pale-blue-pixel.github.io/Daily-Entropy/, #entropía #web #net #netart #IChing #hexagrama #azar #aleatorio #random #Isis
@@ -159,7 +159,7 @@ Button Stealer, https://anatolyzenkov.com/stolen-buttons/button-stealer, #net #w
 Casting Screens, https://casting-screens.digitale-grafik.com/, #web #net #compilación #arte #cultura_digital  #desktop #screenshot #galería 
 Alt Text Selfies, https://alttextselfies.net/welcome/, #web #galería #net #compilación #Selfies #retrato #arte
 One million check boxes, https://onemillioncheckboxes.com/, #juego #web #interactividad # #internet #informática
-Augmented Reality Fish, https://www.kenrinaldo.com/portfolio/augmented-fish-reality/, #proyecto #arte #realidadaumentada #bioarte #robótica #interespecie #transespecífico 
+Augmented Reality Fish, https://www.kenrinaldo.com/portfolio/augmented-fish-reality/, #proyecto #arte #realidad_aumentada #bioarte #robótica #interespecie #transespecífico 
 An Audiovisual Environment Suite, https://acg.media.mit.edu/people/golan/aves/, #web #arte #net #compilación #video #fluído #Audiovisual #realtime #tiempo_real #interfaz #performance
 Sixties city, https://www.sixtiescity.net/Radio/PirateRadio.shtm, #net #radio #opensource #slibre_acceso #diy #frecuencia
 Hackteria, https://www.hackteria.org/, #net #web #compilación #hacking #biología #diy #laboratorio #sintético #opensource
@@ -169,7 +169,7 @@ Peter Blasser, https://www.ciat-lonbarde.net/, #arte #portafolio #artista #sinte
 Gieskes, https://gieskes.nl/, #arte #portafolio #catálogo #pcv #circuito #hacking #diy #electrónica
 Marión C. Martínez, http://www.marionmartinez.com/, #arte #artista #portafolio #circiuto #pcv #iconografía #religión #cristianismo
 Silva Tooth, https://www.silvatoothdesigns.com/, #portafolio #arte #artista #pixel #glitch #resolución #visual 
-Katya Budkovskaya, https://www.instagram.com/shrewfriend/?hl=en, #arte #artista #portaoflio #catálogo #textil #glitch #tejido #tapíz
+Katya Budkovskaya, https://www.instagram.com/shrewfriend/?hl=en, #arte #artista #portafolio #catálogo #textil #glitch #tejido #tapíz
 Moises Salazar Tlatenchi, https://www.moisessalazar.com/about, #arte #artista #portafolio #textil #México #queer #culturapop
 Aimen Kathia, https://ambiancehotels.net/artists/aimen-kathia/, #arte #artista #portafolio #islam #musulman #pintura #ilustración #religión
 Vtol, https://vtol.cc/filter/works, #artista #arte #portafolio #robótica #máquina #tamagotchi #simbiosis #sistema #tecnología #cyborg #ciberpunk
@@ -209,7 +209,7 @@ Michael Sedbon, https://michaelsedbon.com/, #arte #artista #portafolio #web #net
 Distributed Denial of Secrets, https://ddosecrets.com/, #web #net #cibernética #archivo #documento #texto #hacking #leak #activismo
 what is sha-256?, https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/, #web #texto #net #hacking #seguridad #cibernética #ciberseguridad #algoritmo #critpgrafía 
 Cryptome, https://cryptome.org/, #web #net #critpgrafía #cibernética #informática #opensource #hacking #compilación #activismo 
-Cibereada, https://drive.google.com/file/d/1def0jMRtSMhwCPPuUvjCmLyHmaNfss5-/view?usp=sharing, #texto #libro #cibernética #StanislavLem #scifi #ciencia_ficción #tecnología #progreso #utoopia #distopía
+Cibereada, https://drive.google.com/file/d/1def0jMRtSMhwCPPuUvjCmLyHmaNfss5-/view?usp=sharing, #texto #libro #cibernética #StanislavLem #scifi #ciencia_ficción #tecnología #progreso #utopia #distopía
 Tape Mark 2, https://www.in-vacua.com/cgi-bin/tapemark.pl?, #texto #web #poesía #algoritmo #NanniBalestrini #computación
 Data Browser, http://data-browser.net/, #web #net #compilación #seguridad #disruptivo #hacking #política #arte
 Non-Stop future, http://nonstop-future.org/, #web #net #opensource #táctico #cibernética #cultura_digital #hacking #diy 
@@ -281,7 +281,7 @@ SIGGRAPH Artworks, https://digitalartarchive.siggraph.org/siggraph-artworks-in-t
 TempleOs, http://www.templeos.org/, #informática #cibernética #sistema_operativo #dios #religión #computación #arte #.exe 
 Bunkertours, http://www.bunkertours.co.uk/, #net #galería #comunidad #web #bunker #arquitectura #espacio #compilación 
 Dream Machines, https://drive.google.com/file/d/1eFBggDe0t_rStp9hnDUWeu2vJIyGD9TR/view?usp=sharing, #computación #informática #máquina #cibernética #libro #texto #ilustración #Ted_Nelson #hipertexto #realidad_virtual #multimedia #opensource #libre_acceso #tecnología 
-Internet Artifacts, https://neal.fun/internet-artifacts/, #web #net #compilación #screeshot #multimedia #cultura_digital #retro #cibernética #computación #virtual #galería #línea_de_tiempo
+Internet Artifacts, https://neal.fun/internet-artifacts/, #web #net #compilación #screenshot #multimedia #cultura_digital #retro #cibernética #computación #virtual #galería #línea_de_tiempo
 Asteroid Launcher, https://neal.fun/asteroid-launcher/, #juego #web #interactividad #astronomía #geografía #geología #apocalipsis #simulador
 Password game, https://neal.fun/password-game/, #web #juego #password #contraseña #interactividad #ciberseguridad #informática #computación #cifrado
 Earth Revies, https://neal.fun/earth-reviews/, #web #juego #compilación #reseña #simulación #interactiviad
@@ -292,7 +292,7 @@ Goodbye domains, https://goodbye.domains, #netart #hipervinculo #tiempo #web
 Tiny Awards, https://tinyawards.net/, #web #netart #concurso #convocatoria
 A palindrome book, https://federicoantonini.wordpress.com/wp-content/uploads/2012/11/federico-antoniniera-dove-vivevo-da-re-1.pdf, #fanzine #google_imagenes #internet #imagen #publicación
 Junk poems, https://www.txtbooks.us/junk_poems/, #fanzine, #poemas #web #netart #email #spam
-American Psycho, https://www.mimicabell.com/#/american-psycho/, #publicidad #fanzine #publicación 
+American Psycho, https://www.mimicabell.com/american-psycho/, #publicidad #fanzine #publicación 
 Profile page, https://www.linkartcenter.eu/public/editions/IMC10_Florian_Freier_Profile_Page_2015.pdf, #publicación #fanzine #facebook #red_social
 The Conductor, https://mishkahenner.com/The-Conductor, #arte #rayo #música #procedural #generativo
 Printed Web, https://docs.google.com/spreadsheets/d/1kk7dYKk12ON7RgtZ-wg7Vmp44Fqv7OEi6Z90nu7WNpU/edit?gid=0#gid=0, #compilación #publicación #físicalidad #web
@@ -328,6 +328,7 @@ Dataísmo: Dios está en el algoritmo, https://medium.com/understanding-us/datai
 El mito y la creación de la IA, https://jods.mitpress.mit.edu/pub/holmes-mccue/release/4, #mito #religión #tesis #tecnología #ia
 Electronic Rituals, Oracles and Fortune Telling / Fall 2023 Schedule, https://eroft.decontextualize.com/schedule/, #ritual #religión #mito #internet #virtual #tesis
 Coding the Digital Occult, https://eticlab.co.uk/coding-the-digital-occult/, #digital #espiritualidad #virtual #tesis
+
 
 
 
