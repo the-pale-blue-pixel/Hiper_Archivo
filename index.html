@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hiper_Archivo (blanco & negro)</title>
+    <title>Hiper_Archivo (blanco & negro + verde hover)</title>
     <link rel="icon" type="image/png" href="favicon.png">
 
     <style>
         /* --- GLOBAL: blanco y negro --- */
         body {
-            background-color: #ffffff;  /* fondo blanco */
-            color: #000000;             /* texto negro */
+            background-color: #ffffff;
+            color: #000000;
             font-family: 'Courier New', Courier, monospace;
             margin: 0;
             display: flex;
@@ -31,52 +31,53 @@
             padding-left: 15px;
         }
 
-        /* cursor negro (blink sobre blanco) */
+        /* cursor negro */
         .cursor {
             display: inline-block;
-            background-color: #000000;   /* negro */
+            background-color: #000000;
             width: 10px;
             height: 24px;
             animation: blink 1s step-start infinite;
         }
         @keyframes blink {
             50% {
-                background-color: #888888; /* gris suave para que el parpadeo no sea tan agresivo en blanco */
+                background-color: #888888;
             }
         }
 
-        /* --- ESTILO DE LOS HASHTAGS (siempre texto negro) --- */
-        .hashtag {
+        /* --- ESTILO BASE PARA CUALQUIER HASHTAG (principal o popup) --- */
+        .hashtag, .related-hashtag {
             margin: 5px;
             padding: 5px 10px;
             cursor: pointer;
-            color: #000000;               /* negro */
+            color: #000000;
             background-color: transparent;
             transition: box-shadow 0.2s ease-in-out;
-            display: block;               /* cada hashtag en su línea */
+            display: inline-block;  /* para que se ajusten al contenido */
         }
 
-        /* hover: sombra verde difuminada por detrás, texto sigue negro */
-        .hashtag:hover {
-            box-shadow: 0 0 15px 5px rgba(0, 255, 0, 0.6); /* verde difuminado */
-            background-color: transparent; /* aseguramos que no haya fondo */
+        /* hover: sombra verde difuminada por detrás */
+        .hashtag:hover, .related-hashtag:hover {
+            box-shadow: 0 0 15px 5px rgba(0, 255, 0, 0.6);
+            background-color: transparent;
         }
 
-        /* --- POPUP (blanco con bordes negros) --- */
+        /* --- POPUP --- */
         .popup {
             position: fixed;
             top: 10%;
             left: 15%;
             width: 70%;
             height: calc(80% - 30px); 
-            background-color: #ffffff;     /* fondo blanco */
-            border: 3px solid #000000;     /* borde negro */
+            background-color: #ffffff;
+            border: 3px solid #000000;
             display: flex;
             flex-direction: row;
-            color: #000000;                /* texto negro */
+            color: #000000;
             padding: 20px;
             overflow: hidden;
-            box-shadow: 0 0 20px rgba(0,0,0,0.2); /* ligera sombra para destacar */
+            box-shadow: 0 0 20px rgba(0,0,0,0.2);
+            z-index: 1000;
         }
 
         .popup .left-section {
@@ -84,7 +85,7 @@
             overflow-y: auto;
             text-align: left;
             padding-right: 10px;
-            border-right: 2px solid #000000; /* línea divisoria negra */
+            border-right: 2px solid #000000;
         }
 
         .popup .right-section {
@@ -109,51 +110,49 @@
             margin-top: 20px;
         }
 
+        /* los enlaces normales (títulos) se mantienen sin sombra */
+        .popup a:not(.related-hashtag) {
+            color: #000000;
+            text-decoration: none;
+        }
+        .popup a:not(.related-hashtag):hover {
+            text-decoration: underline;
+        }
+
         .close-button {
             position: absolute;
             top: 10px;
             right: 10px;
             cursor: pointer;
-            color: #000000;                /* negro */
+            color: #000000;
             font-weight: bold;
             z-index: 10;
             margin-right: 15px;
             font-size: 1.2rem;
         }
         .close-button:hover {
-            color: #333333;                /* gris oscuro al pasar */
+            color: #333333;
         }
 
-        /* enlaces siempre negros (subrayado solo al hover) */
-        a {
-            color: #000000;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-
-        /* --- SCROLLBAR PERSONALIZADO (negro, se vuelve verde al hacer clic) --- */
-        /* Scrollbar para el POPUP (respetando la estructura original) */
+        /* --- SCROLLBAR (negra, se vuelve verde al hacer clic) --- */
         .popup ::-webkit-scrollbar {
             width: 10px;
         }
         .popup ::-webkit-scrollbar-track {
-            background-color: #f0f0f0;     /* gris muy claro (casi blanco) */
+            background-color: #f0f0f0;
             margin-top: 15px;
         }
         .popup ::-webkit-scrollbar-thumb {
-            background-color: #000000;      /* negro normal */
+            background-color: #000000;
             border-radius: 5px;
         }
         .popup ::-webkit-scrollbar-thumb:hover {
-            background-color: #00cc00;       /* verde al pasar el mouse */
+            background-color: #00cc00;
         }
         .popup ::-webkit-scrollbar-thumb:active {
-            background-color: #00aa00;       /* verde más oscuro al hacer clic */
+            background-color: #00aa00;
         }
 
-        /* Scrollbar general para el BODY (por si la lista de hashtags es larga) */
         body::-webkit-scrollbar {
             width: 10px;
         }
@@ -171,17 +170,6 @@
             background-color: #00aa00;
         }
 
-        /* Aseguramos que el texto dentro del popup herede el color negro */
-        .popup, .popup * {
-            color: #000000;
-        }
-
-        /* El cursor del popup (hereda de .cursor, ya es negro) */
-        .popup .cursor {
-            background-color: #000000;
-        }
-
-        /* Pequeño ajuste: la barra espaciadora entre mensaje y tags */
         .separator {
             width: 100%; 
             height: 30px;
@@ -192,7 +180,6 @@
     <div class="title">
         <span id="welcome-text"></span><span class="cursor"></span>
     </div>
-    <!-- espacio entre mensaje de bienvenida y los tags -->
     <div style="width: 100%; height: 30px;"></div>
 
     <script>
@@ -326,10 +313,13 @@
 
             const relatedTagsContainer = document.createElement('div');
             relatedTagsContainer.className = 'related-tags';
+
             Array.from(uniqueRelatedHashtags).sort().forEach(relatedTag => {
+                // Crear el enlace con clase específica para hashtags relacionados
                 const relatedTagElement = document.createElement('a');
                 relatedTagElement.textContent = relatedTag;
                 relatedTagElement.href = '#';
+                relatedTagElement.className = 'related-hashtag'; // ← clase para el hover verde
                 relatedTagElement.addEventListener('click', (e) => {
                     e.preventDefault();
                     populateLeftSection(relatedTag.toLowerCase());
